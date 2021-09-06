@@ -1,8 +1,5 @@
 *
-{
-  margin: 0;
-  padding: 0;
-}
+
 body{
   background: #D0E4F5 url("https://acegif.com/wp-content/gif/outerspace-58.gif") repeat local 0px 0px;
   background-size:cover;
@@ -15,22 +12,7 @@ body{
   width: 50px; height: 50px;
   }
 
-button {
-  border: 1px solid #d61818; /*anchura, estilo y color borde*/
-  padding: 10px; /*espacio alrededor texto*/
-  background-color: #ebf0f7; /*color botón*/
-  color: #cb46dd; /*color texto*/
-  text-decoration:none; /*decoración texto*/
-  text-transform: uppercase; /*capitalización texto*/
-  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
-  border-radius: 50px; /*bordes redondos*/
-  text-align: center;
-  text-align: end;
-  font-size: 30px;
-  margin: 60px 0;
- 
-  }
-  a:hover { background-color: yellow; }
+
   h1 {
     color: #ac0707;
     text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #595bf5, 0 0 30px #595bf5, 0 0 40px #595bf5, 0 0 55px #595bf5, 0 0 75px #070707;
@@ -41,3 +23,4 @@ button {
     font-size: 45px;
   
   }
+ 
